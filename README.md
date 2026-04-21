@@ -72,14 +72,14 @@ The ER diagram included in the repository illustrates relationships between all 
 ## Project Report
 
 Detailed analysis and findings are documented in the report:
-**01-retail-data-analysis-report.pdf**
+**retail-data-analysis-report.pdf.pdf**
 
 ---
 
 ## Presentation
 
 A summarized version of the project is available in:
-**02-presentation.pptx**
+**presentation.ppt.pptx**
 
 ---
 
